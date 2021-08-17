@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-image:linear-gradient(35deg,#ae00ff88 ,teal);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    overflow: hidden;
+}
+
+ul li{
+    float: left;
+    margin: 11px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 21px;
+    margin: 1px;
+}
+
+ul li a:hover{
+    background-color: #8715a3d7;
+    color: white;
+}
