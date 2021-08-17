@@ -2,8 +2,14 @@ import React from 'react';
 
 const About = ()=>{
     return(
-        <h1>About Component</h1>
+        
+        <div>
+            <h1>Login page</h1>
+        </div>
     )
 }
+
+
+
 
 export default About;
